@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1> Hey There 👋🏻!&nbsp; This is Rehan. Nice to meet you.</h1>
+<h2> Hey There 👋🏻!&nbsp; This is Rehan. Nice to meet you.</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-md-raihan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Excellent_Letter_829) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1889128) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skmdraihan8942@gmail.com) 
@@ -11,10 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RRR-STAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RRR-STAR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RRR-STAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏅 GitHub Achievements
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" alt="Pull Shark" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" alt="YOLO" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" />
-</p>
