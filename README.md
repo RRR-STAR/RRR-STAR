@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey There 👋🏻 ! This is Rehan.
+<h3> Hey There 👋🏻 ! This is Rehan. </h3>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@ Hey There 👋🏻 ! This is Rehan.
 
 ### 🏅 GitHub Achievements
 <p align="left">
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-24292E?style=flat&logo=github&logoColor=white" alt="Pull Shark Badge" />
   <img src="https://img.shields.io/badge/Achievement-Quickdraw-24292E?style=flat&logo=github&logoColor=white" alt="Quickdraw Badge" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be08b8b32949.png" width="80" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO-24292E?style=flat&logo=github&logoColor=white" alt="YOLO Badge" />
 </p>
