@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1> Hey There 👋🏻 ! This is Rehan. </h1>
+<h1> Hey There 👋🏻! <br> This is Rehan. </h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-md-raihan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Excellent_Letter_829) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1889128) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skmdraihan8942@gmail.com) 
