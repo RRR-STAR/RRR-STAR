@@ -14,6 +14,7 @@
 
 ### 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be08b8b32949.png" width="80" alt="YOLO" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" alt="Pull Shark" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" alt="YOLO" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" />
 </p>
